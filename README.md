@@ -26,6 +26,10 @@
 ### Ruby Object Hierarchy
 ### Comparable module / Built-in global variable / web app without Rails / require-require_relative-load / Threads - Network
 ---
+
+# RailsCheatSheet
+## Rails Cheat Sheet to not forget other stupid things.
+
 - ### N+1 / Eager load
   - #### [Good Article](https://goiabada.blog/to-join-or-not-to-join-an-act-of-includes-f6728fcefea3)
   - #### Useful methods: 
