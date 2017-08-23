@@ -36,3 +36,20 @@
     - [includes](https://apidock.com/rails/v4.2.7/ActiveRecord/QueryMethods/includes) / [references](https://apidock.com/rails/ActiveRecord/QueryMethods/references)
     - [eager_load](https://apidock.com/rails/v4.2.7/ActiveRecord/QueryMethods/eager_load)
     - [preload](https://apidock.com/rails/ActiveRecord/QueryMethods/preload)
+
+
+
+---
+# Training
+## Links to do exercises and katas to improve skills
+
+- [Codewars](https://www.codewars.com)
+  - Fight your folks with kata points
+- [Hackerrank](https://www.hackerrank.com)
+  - Lots of exercises / math problems to resolve
+- [Codeschool](https://www.codeschool.com/)
+  - very nice interactive trainings
+- [Coursera](https://www.coursera.org/)
+  - Get certified with university courses
+- [Rubyquiz](http://rubyquiz.com/)
+  - ?
