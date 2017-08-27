@@ -44,8 +44,11 @@
     - [eager_load](https://apidock.com/rails/v4.2.7/ActiveRecord/QueryMethods/eager_load)
     - [preload](https://apidock.com/rails/ActiveRecord/QueryMethods/preload)
 
-
-
+- ### ActionCable
+  - #### [Good Article](https://medium.com/rubyinside/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app-7f77382cfb5)
+  - #### [Documentation](http://edgeguides.rubyonrails.org/action_cable_overview.html)
+  
+  
 ---
 # Training
 ## Links to do exercises and katas to improve skills
