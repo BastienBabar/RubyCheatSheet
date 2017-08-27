@@ -37,6 +37,10 @@
 # RailsCheatSheet
 ## Rails Cheat Sheet to not forget other stupid things.
 
+- ### ActiveRecord
+  - ### [Tricks](https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd)
+  - ### [Documentation](http://guides.rubyonrails.org/active_record_basics.html)
+
 - ### N+1 / Eager load
   - #### [Good Article](https://goiabada.blog/to-join-or-not-to-join-an-act-of-includes-f6728fcefea3)
   - #### Useful methods: 
