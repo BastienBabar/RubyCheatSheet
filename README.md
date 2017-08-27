@@ -24,7 +24,14 @@
 ### Metaprogramming
 ### Lazy enumerators
 ### Ruby Object Hierarchy
-### Comparable module / Built-in global variable / web app without Rails / require-require_relative-load / Threads - Network
+### Concurrency
+- ### [Good Article](https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970)
+- ### Useful methods:
+  - [Processes](https://ruby-doc.org/core-2.4.0/Process.html)
+  - [Threads](https://ruby-doc.org/core-2.4.0/Thread.html)
+  - [EventMachine](https://github.com/eventmachine/eventmachine)
+
+### Comparable module / Built-in global variable / web app without Rails / require-require_relative-load
 ---
 
 # RailsCheatSheet
