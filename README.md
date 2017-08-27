@@ -9,6 +9,9 @@
 ### Modules
 ### Variables (intance, class, arguments)
 ### Enumerables
+- #### [Good Article](http://www.zenruby.info/2016/06/ruby-iterators-enumerators-enumerable.html)
+- #### [Documentation](https://ruby-doc.org/core-2.4.1/Enumerable.html)
+
 ### Accessors
 ### Ranges?
 ### Struct
@@ -38,8 +41,8 @@
 ## Rails Cheat Sheet to not forget other stupid things.
 
 - ### ActiveRecord
-  - ### [Tricks](https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd)
-  - ### [Documentation](http://guides.rubyonrails.org/active_record_basics.html)
+  - #### [Tricks](https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd)
+  - #### [Documentation](http://guides.rubyonrails.org/active_record_basics.html)
 
 - ### N+1 / Eager load
   - #### [Good Article](https://goiabada.blog/to-join-or-not-to-join-an-act-of-includes-f6728fcefea3)
